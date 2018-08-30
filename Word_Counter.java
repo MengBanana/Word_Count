@@ -36,7 +36,6 @@ public class Word_Counter {
 	 * This class counts words from a URL location.
 	 */
 	static class WordCounter implements Callable<Integer> {
-		// your code here
 		
 		/** The URL of a book*/
 		public URL url;
